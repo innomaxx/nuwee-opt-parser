@@ -1,0 +1,5 @@
+.archive/
+.idea/
+data/
+node_modules/
+startup.json

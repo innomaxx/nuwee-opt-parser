@@ -1,0 +1,8 @@
+{
+    "parallel": true,
+    "sessionId": "<insert session key here>",
+    "verifiedTeachers": [
+        "<add here teachers names (full or part)>",
+        "..."
+    ]
+}
